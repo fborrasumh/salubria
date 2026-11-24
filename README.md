@@ -139,7 +139,7 @@ Construida a partir de la Guía Docente 2026-2027 de la asignatura 2071 Salud P�
 
 ## Cómo citar
 
-Borrás Rocher, F., García de la Hera, M. y Torres Collado, L. (2026). *SalubrIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.24515008](https://doi.org/10.5281/zenodo.24515008)
+Borrás Rocher, F., García de la Hera, M. y Torres Collado, L. (2026). *SalubrIA* (v1.0.1) [Software]. DOI: [10.5281/zenodo.24515008](https://doi.org/10.5281/zenodo.24515008)
 
 ## Licencia
 
