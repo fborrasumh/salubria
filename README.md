@@ -4,6 +4,8 @@ Sistema de aprendizaje de la asignatura **2071 Salud Pública** (2.º del Grado 
 
 **Usar la app:** https://fborrasumh.github.io/salubria/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24515008.svg)](https://doi.org/10.5281/zenodo.24515008)
+
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Qué hace
@@ -141,7 +143,7 @@ Construida a partir de la Guía Docente 2026-2027 de la asignatura 2071 Salud P�
 
 ## Cómo citar
 
-Borrás Rocher, F., García de la Hera, M. y Torres Collado, L. (2026). *SalubrIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F., García de la Hera, M. y Torres Collado, L. (2026). *SalubrIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.24515008](https://doi.org/10.5281/zenodo.24515008)
 
 ## Licencia
 
