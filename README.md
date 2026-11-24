@@ -11,7 +11,7 @@ Sistema de aprendizaje de la asignatura **2071 Salud Pública** (2.º del Grado 
 ## Qué hace
 
 **Para el alumnado**
-- **Diagnóstico inicial**: una pregunta por cada uno de los 12 resultados de aprendizaje evaluables en el examen. La guía lo declara y aquí no puntúa: fija el punto de partida.
+- **Diagnóstico inicial**: una pregunta por cada uno de los 12 resultados de aprendizaje evaluables en el examen. No puntúa: fija el punto de partida.
 - **Sesión de hoy**: 10 actividades intercaladas (nunca dos seguidas del mismo resultado) elegidas por un modelo explicable. Cada una dice por qué toca: dominio bajo, repaso pendiente por olvido, error reciente, peso en el examen o tema aún no practicado.
 - **Cinco tipos de actividad**:
   - 74 preguntas tipo test con explicación. Antes de comprobar se pide la seguridad, para trabajar la calibración y el efecto de hipercorrección.
@@ -32,7 +32,7 @@ Sistema de aprendizaje de la asignatura **2071 Salud Pública** (2.º del Grado 
   - Planteamiento, con 7 comprobaciones de coherencia hechas por el código.
   - Resultados: tabla 2×2 o frecuencias, con RR, OR, IC 95 %, diferencia de riesgos y gráfico. El código comprueba que cada cifra del texto de resultados sale de los datos.
   - Presentación: plan de tiempos y cronómetro.
-  - Rúbrica propuesta y coevaluación entre iguales.
+  - Rúbrica orientativa y coevaluación entre iguales.
   - Exportación en Word y JSON.
 - **Simulacro de examen** con el formato de la guía:
   - Test con penalización (1/(k−1) por defecto, configurable).
@@ -43,9 +43,6 @@ Sistema de aprendizaje de la asignatura **2071 Salud Pública** (2.º del Grado 
 - **Conceptos clave**: glosario de 33 términos con modo de autoevaluación.
 
 **Para el profesorado**
-- Análisis de la guía:
-  - 11 hallazgos de la autopsia, cada uno con la sección de la guía en que se apoya.
-  - Matriz de alineación resultado ↔ guía ↔ actividades ↔ evaluación.
 - Configuración del simulacro: penalización, número de preguntas y pesos.
 - Analítica de ítems a partir de los registros que el alumnado decida compartir:
   - Dificultad, discriminación punto-biserial y uso de distractores.
@@ -102,9 +99,8 @@ El registro no contiene nombres, correos ni textos libres. **Investigar con esto
 ## Límites
 
 - **Todo el contenido lo ha redactado la app a partir de la guía y está pendiente de revisión docente**: preguntas, explicaciones, casos, rúbricas y glosario. Los datos de los casos y gráficos son ficticios.
-- La guía no declara resultados de aprendizaje: los 13 RA son una propuesta de reescritura medible.
-- La rúbrica del trabajo es una propuesta: la guía no publica criterios.
-- El reparto del simulacro (test 60 %, problemas 20 %, cortas 20 %) y la fórmula de penalización son supuestos configurables. La guía no los fija.
+- Los 13 resultados de aprendizaje operativos y la rúbrica del trabajo son orientativos y están pendientes de revisión docente.
+- El reparto del simulacro (test 60 %, problemas 20 %, cortas 20 %) y la fórmula de penalización son orientativos y configurables.
 - El dominio estimado y la nota del simulacro son orientativos.
 - La detección de conceptos en respuestas cortas usa palabras clave: es una pista y decide el estudiante.
 - La coevaluación se rellena en cada dispositivo y se entrega como fichero. No hay servidor ni sincronización.
